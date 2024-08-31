@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">faculty_hub_JU</string>
+    <string name="btnLabel">Show Departments</string>
+    <string name="emptyText">No option selected!!</string>
+    <string name="titleText">Faculty Hub JU</string>
+    <string name="searchAgainText">Search again</string>
+    <string name="departmentsTitleText">Departments under the selected Faculty:</string>
+    <string-array name="FacultyStringArray">
+        <item>Select a faculty…</item>
+        <item>Faculty of Arts and Humanities</item>
+        <item>Faculty of Mathematical and Physical Sciences</item>
+        <item>Faculty of Social Sciences</item>
+        <item>Faculty of Biological Sciences</item>
+        <item>Faculty of Business Studies</item>
+        <item>Faculty of Law</item>
+    </string-array>
+</resources>
