@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Visiting Card Maker</string>
+    <string name="name">Subarna Saha</string>
+    <string name="address">Rokeya Hall, Jahangirnagar University</string>
+    <string name="email_address">jucse29.subarna.349@gmail.com</string>
+    <string name="university_name">Jahangirnagar University</string>
+    <string name="phone_number">+8801748820307</string>
+</resources>
